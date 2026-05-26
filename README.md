@@ -26,15 +26,17 @@ Create database tables for Trains, Passengers, Tickets, and Schedules.
 
 ## USECASE:
 
-<img width="1037" height="900" alt="image" src="https://github.com/user-attachments/assets/11c060f9-9ffb-4076-9c04-058a281d1d17" />
+<img width="911" height="748" alt="image" src="https://github.com/user-attachments/assets/3245f630-3cec-41fc-9c95-d899679e5ad1" />
+
 
 ## CLASS DIAGRAM:
 
-<img width="1127" height="847" alt="image" src="https://github.com/user-attachments/assets/e3c511a8-d04a-4ead-8c13-ebd9715014c5" />
+<img width="987" height="621" alt="image" src="https://github.com/user-attachments/assets/9d714b6f-ceb4-42b8-8396-32bff0b38696" />
+
 
 ## SEQUENCE DIAGRAM:
 
-<img width="904" height="758" alt="image" src="https://github.com/user-attachments/assets/eada34c0-b650-45e9-bba9-2021ac4dc8ad" />
+<img width="537" height="902" alt="image" src="https://github.com/user-attachments/assets/bbf78f1a-c5fa-482d-9d91-72d26c7f5002" />
 
 ## COMMUNICATION DIAGRAM:
 
@@ -46,7 +48,8 @@ Create database tables for Trains, Passengers, Tickets, and Schedules.
 
 ## PACKAGE DIAGRAM:
 
-<img width="885" height="647" alt="image" src="https://github.com/user-attachments/assets/8f2b5c8a-0702-41ce-9d9b-5fb95bd2dbb9" />
+<img width="812" height="476" alt="image" src="https://github.com/user-attachments/assets/9bc8edbc-c68e-4246-a896-6c8d783210b2" />
+
 
 # RESULT:
 
